@@ -24,7 +24,7 @@ author = {Yokoyama,  Yoshihiro Noda, Masataka Wada, Mayuko Takano,  and Keiichi 
 },
 doi = {https://doi.org/10.1101/2025.03.22.644706},
 journal = {bioRxiv},
-title = {{Validation of EEG data assimilation-based prefrontal excitation-inhibition balance estimation using TMS\-EEG}},
+title = {{Validation of EEG data assimilation-based prefrontal excitation-inhibition balance estimation using TMS--EEG}},
 year = {2025}
 }
 ```
