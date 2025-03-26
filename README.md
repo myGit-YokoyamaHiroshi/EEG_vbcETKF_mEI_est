@@ -1,7 +1,7 @@
 # EEG_vbcETKF_mEI_est
 There are sample scripts of model-based E/I balance estimation method using vbETKF in the Neural mass model with parameter constraint. 
 <br>
-The implementations in this repository contained a modified version of this method: https://github.com/myGit-YokoyamaHiroshi/EEG_vbcEnKF_mEI_est.
+The implementations in this repository contains a modified version of the following repository: https://github.com/myGit-YokoyamaHiroshi/EEG_vbcEnKF_mEI_est.
 <br>
 
 # Authors<br>
