@@ -11,7 +11,7 @@ Shiga University, Japan)<br>
 &ensp;&ensp;(Division of Neural Dynamics, Department of System Neuroscience, National Institute for Physiological Sciences, Japan)<br>
 
 # References<br>
-Yokoyama,  Yoshihiro Noda, Masataka Wada, Mayuko Takano,  and Keiichi Kitajo
+Hiroshi Yokoyama,  Yoshihiro Noda, Masataka Wada, Mayuko Takano,  and Keiichi Kitajo
 . (2025). Validation of EEG data assimilation-based prefrontal excitation-inhibition balance estimation using TMS-EEG. bioRxiv. doi: https://doi.org/10.1101/2025.03.22.644706
 
 
@@ -20,7 +20,7 @@ Yokoyama,  Yoshihiro Noda, Masataka Wada, Mayuko Takano,  and Keiichi Kitajo
 Please cite our repository if you use this code in your own work:
 ```
 @article{Yokoyama2025,
-author = {Yokoyama,  Yoshihiro Noda, Masataka Wada, Mayuko Takano,  and Keiichi Kitajo
+author = {Hiroshi Yokoyama,  Yoshihiro Noda, Masataka Wada, Mayuko Takano,  and Keiichi Kitajo
 },
 doi = {https://doi.org/10.1101/2025.03.22.644706},
 journal = {bioRxiv},
